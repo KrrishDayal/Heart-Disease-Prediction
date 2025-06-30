@@ -15,3 +15,23 @@ This project generates a synthetic heart disease dataset inspired by real-world 
 
 - Accuracy: ~59%
 - ROC AUC: ~0.62
+
+## Future Improvements
+
+- Use advanced models like Random Forest or XGBoost
+- Add feature engineering and interaction terms
+- Balance synthetic dataset if needed
+- Add model explainability tools (SHAP, LIME)
+- Tune hyperparameters for better accuracy
+
+## Files
+
+- `heart_disease_synthetic.py` — main Python code for data generation and modeling
+
+## Author
+
+Krrish — passionate about applying machine learning to healthcare challenges.
+
+## Contributions
+
+Feel free to open issues or submit pull requests for improvements!

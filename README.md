@@ -13,8 +13,8 @@ This project generates a synthetic heart disease dataset inspired by real-world 
 
 ## Current Results
 
-- Accuracy: ~59%
-- ROC AUC: ~0.62
+- Accuracy: ~62.4%
+- ROC AUC: ~0.6739
 
 ## Future Improvements
 

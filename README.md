@@ -26,7 +26,7 @@ This project generates a synthetic heart disease dataset inspired by real-world 
 
 ## Files
 
-- `heart_disease_synthetic.py` — main Python code for data generation and modeling
+- `SyntheticHeartDisease.ipynb` — main Python code for data generation and modeling
 
 ## Author
 
